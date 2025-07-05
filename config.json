@@ -77,6 +77,10 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     },
+    "hnzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
